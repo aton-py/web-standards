@@ -3,10 +3,10 @@
 </h1>
 
 <h4 align="center">
-⚡️ Modern UI Design\
-⚡️ One Page Layout built with HTML5\
-⚡️ Styled with TailwindCSS\
-⚡️ Fully Responsive
+- ⚡️ Modern UI Design
+- ⚡️ One Page Layout built with HTML5
+- ⚡️ Styled with TailwindCSS
+- ⚡️ Fully Responsive
 </h4>
 
 <h2 align="center">
